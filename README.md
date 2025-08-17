@@ -1,6 +1,6 @@
 # 🚀 Data Engineering Pipelines with Apache Beam, Dataflow and Pub/Sub
 
-![Project Architecture](assets/pipelines.png)
+![Project Architecture](assets/GOO_DataFlow_Graphics_Rev7.jpg)
 
 Repository containing hands-on exercises and projects from the **Apache Beam + Dataflow + Pub/Sub (Udemy)** course.  
 The focus is to understand **batch and streaming data processing** on Google Cloud, building end-to-end pipelines.
